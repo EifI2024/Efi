@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EifI!</h1>
-<h3 align="center">"Coding the Future" Data Scientist from Germany, Stuttgart</h3>
+<h3 align="center">"Coding the Future" Data Scientist</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
